@@ -1,0 +1,1 @@
+select * from cinema_db;
