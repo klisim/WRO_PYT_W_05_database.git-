@@ -17,6 +17,12 @@ Używając Flaska, napisz program, który wyświetli na stronie wszystkie produk
 Napisz zapytania SQL, które:
 1. Dodawanie:
 * dodadzą 4 nowe filmy,
+
+INSERT INTO ticket(quantity, price) 
+VALUES 
+  (1, 10),
+  (3, 30);
+
 * dodadzą po jednym bilecie do każdego filmu.
 
 2. Wybieranie:
